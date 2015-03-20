@@ -7,5 +7,6 @@ public class SomeService18 {
 	private Test test;
 
 	public void doStuff() {
+		test.test();
 	}
 }
